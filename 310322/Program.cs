@@ -6,11 +6,6 @@ namespace _310322
     {
         static void Main(string[] args)
         {
-            #region TaskAbout
-            /*
-             
-             */
-            #endregion
             Console.WriteLine("Telebenin elave edileceyi grupu secin:");
             Console.WriteLine("1-Programming\n2-Desigin\n3-System");
             GroupType type = new GroupType();
